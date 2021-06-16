@@ -1,0 +1,17 @@
+body {
+  background-color:#EBFFFA;
+}
+h1 {
+  color: #2B2E4A;
+ font-family: "Brush Script MT", monospace;
+}
+h3 {
+  color: #2B2E4A;
+}
+  hr {
+    border-style: none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 1px;
+width: 100%;
+  }
